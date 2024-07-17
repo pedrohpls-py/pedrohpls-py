@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pedrohpls-py
 - 👀 I’m interested in Python and WebScraping
 - 🌱 I’m currently learning Scrapy, BS4 and Selenium
-- 💞️ I’m looking to collaborate on scraping real state websites89
+- 💞️ I’m looking to collaborate on scraping real state websites
 - 📫 How to reach me: pedropleite@protonmail.com
 - ⚡ Fun fact: Vasco da Gama
 
